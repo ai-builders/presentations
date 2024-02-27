@@ -1,4 +1,4 @@
-# AI Builders Templates
+# AI Builders Poster Templates
 
 Repository นี้รวบรวมไฟล์ templates สำหรับ Poster presentation และ Presentation
 สำหรับให้น้องๆในโครงการ AI Builders เพื่อไว้ดาวน์โหลดเพื่อนำไปใช้ปรับใช้สำหรับการนำเสนอในวัน AI Builders Showcase
